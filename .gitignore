@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go 构建/测试缓存
+go.sum.bak
+vendor/
